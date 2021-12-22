@@ -66,7 +66,7 @@ function Landing() {
 		lastName: "",
 		email: "",
 		cellphone: "",
-		uType: "member",
+		uType: "Future Member",
 	});
 	const onChange = (e) => {
 		setUserDetails({ ...userDetails, [e.target.id]: e.target.value });
