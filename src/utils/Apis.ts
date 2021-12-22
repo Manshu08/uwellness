@@ -1,4 +1,4 @@
-const backend = "https://3.109.239.7:5000/";
+const backend = "https://api.uwellness.co/";
 // const backend = "http://localhost:5000/";
 const version = "api";
 export const APIS = {
