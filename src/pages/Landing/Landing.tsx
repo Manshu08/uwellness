@@ -135,13 +135,13 @@ function Landing() {
 				<CardwithtiltedImage
 					img={str1}
 					mainText="Fitness"
-					subText="Your goal is to take your body to its best potential. Learn from fitness professionals new workouts from the of your surroundings."
+					subText="Do you want to take your body to its best potential? Learn from fitness professionals on how to do that in any environment."
 				/>
 				<CardwithtiltedImage
 					img={str2}
 					right={true}
 					mainText="Nutrition"
-					subText="Your goal is to take your nutritional health seriously. Learn new ways from our experts to take the stress out of cooking."
+					subText="Do you want to take your nutritional health to the next level? Learn new ways on how to do that with the nutritional experts by making cooking fun."
 				/>
 			</StyledSecondSection>
 			<StyledThirdSection>
